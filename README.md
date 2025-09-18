@@ -1,9 +1,3 @@
-
----
-
-## 📄 `assignment2/README.md`
-
-```markdown
 # 🚀 Assignment 2: Advanced React + Ant Design
 
 ### 🔹 Description
