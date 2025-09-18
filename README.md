@@ -25,7 +25,7 @@ This version introduces a **responsive grid layout** and an **editable modal** t
 ---
 
 ## 🌍 Deployment
-👉 Live Demo: [View Assignment 2](https://your-deployment-link-assignment2.com)
+👉 Live Demo: [View Assignment 2](https://assignment-2-advanced-react-ant-des.vercel.app/)
 
 ---
 
